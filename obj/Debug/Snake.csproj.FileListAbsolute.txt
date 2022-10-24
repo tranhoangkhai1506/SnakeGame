@@ -1,0 +1,11 @@
+D:\TaiLieuDaiHoc\AI\Snake\bin\Debug\Snake.exe.config
+D:\TaiLieuDaiHoc\AI\Snake\bin\Debug\Snake.exe
+D:\TaiLieuDaiHoc\AI\Snake\bin\Debug\Snake.pdb
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.frmSnake.resources
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.exe
+D:\TaiLieuDaiHoc\AI\Snake\obj\Debug\Snake.pdb
